@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "257149538954",
+    "project_id": "cardiac-bf80e",
+    "storage_bucket": "cardiac-bf80e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257149538954:android:a7fe0780e408ce971cd373",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "257149538954-e9c1pk7g1201r5ummrp3j0fu96qp3rdf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDga50os4Qt4cea2jAp4U2W6I-gqwF-hUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "257149538954-e9c1pk7g1201r5ummrp3j0fu96qp3rdf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
